@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Chau Phat</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h1 align="center">Xin chào 👋, mình là Châu Phát</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauphat&label=Profile%20views&color=0e75b6&style=flat" alt="chauphat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chauphat" alt="chauphat" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 📫 How to reach me **hieuphung2111@gmail.com**
-
-- ⚡ Fun fact **I'M GOD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chauphat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chauphat" height="30" width="40" /></a>
-<a href="https://fb.com/chauphat2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chauphat2111" height="30" width="40" /></a>
-<a href="https://instagram.com/chaauphats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaauphats" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/chauphat">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+SQL;Sinh+vi%C3%AAn+Tr%C6%B0%E1%BB%9Dng+%C4%90H+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin+-+UIT;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+ph%C3%A1t+tri%E1%BB%83n+b%E1%BA%A3n+th%C3%A2n" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chauphat&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="chauphat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauphat&show_icons=true&locale=en&layout=compact" alt="chauphat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauphat&show_icons=true&locale=en" alt="chauphat" /></p>
+## 👨‍💻 Giới thiệu nhanh
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauphat&" alt="chauphat" /></p>
+- 🇻🇳 Backend Developer đến từ **Việt Nam**
+- 🎓 Hiện đang học tại **Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT)**
+- 💼 Tập trung vào **Java / Spring Boot / REST API**
+- 📫 Liên hệ: **hieuphung2111@gmail.com**
+
+---
+
+## 🤝 Kết nối với mình
+
+<p align="left">
+  <a href="https://linkedin.com/in/chauphat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/chauphat2111" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/chaauphats" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Công nghệ & Công cụ sử dụng
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 📊 Thống kê GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chauphat&show_icons=true&hide_border=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chauphat&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chauphat&layout=compact#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chauphat&layout=compact&theme=tokyonight#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauphat#gh-light-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauphat&theme=tokyonight#gh-dark-mode-only" />
+</p>
+
+---
+
+## 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://github.com/chauphat/chauphat/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://github.com/chauphat/chauphat/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
