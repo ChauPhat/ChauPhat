@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chauphat&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="chauphat" />
+  <img src="https://komarev.com/ghpvc/?username=chauphat&label=Lượt%20xem%20profile&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -79,6 +79,6 @@
 ## 🐍 Snake Contribution
 
 <p align="center">
-  <img src="https://github.com/chauphat/chauphat/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://github.com/chauphat/chauphat/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/chauphat/chauphat/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/chauphat/chauphat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
